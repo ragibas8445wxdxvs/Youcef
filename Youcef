@@ -11,13 +11,13 @@
     }
 
     body {
-      background-color: #ffffff;
+      background-color: #c34f59;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
-      color: #c34f59;
+      color: #ffffff;
     }
 
     h1 {
